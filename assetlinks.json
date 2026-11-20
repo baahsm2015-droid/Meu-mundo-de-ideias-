@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.profound_blini_898cd0.twa",
+        "sha256_cert_fingerprints": ["6C:FF:66:40:E9:56:2B:75:47:68:45:64:78:85:D3:5E:6C:1C:D1:C7:A0:FE:21:D1:A7:94:69:E6:8E:63:24:BC"]
+      }
+    }]
